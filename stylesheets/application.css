@@ -130,6 +130,8 @@ body { text-align:center;
 	background: #fff; 
 	padding:13px;
 	padding-top:25px;
+	font-size:12px;
+	line-height:160%;
 	width: 870px;
 }
 #footer {  border: 0px; clear:both; color:#666666;
@@ -320,3 +322,5 @@ div.attachments p {
 	color:#999;
 }
 div.attachments a { color:#118200; font-weight:bold;}
+
+.my-project { padding-left:0px; padding-right: 18px; background: url(/images/fav.png) no-repeat right 50%; }
