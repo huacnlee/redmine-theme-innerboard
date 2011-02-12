@@ -1,0 +1,25 @@
+This is a theme file for Redmine project.
+
+Download source, and put it in your redmine project public/themes dir, and restart redmine.
+
+NOTE: This is not support for old Internet Explorer browsers.
+
+h2. Screenshots
+
+*Issues*
+!http://farm6.static.flickr.com/5095/5437128307_75732d0305_b.jpg!:http://www.flickr.com/photos/huacnlee/5437128307/
+
+*Create issue*
+!http://farm5.static.flickr.com/4118/5437737992_d45e9d38b8_b.jpg!:http://www.flickr.com/photos/huacnlee/5437737992
+
+*Settings*
+!http://farm6.static.flickr.com/5218/5437128429_6e869e583f_b.jpg!:http://www.flickr.com/photos/huacnlee/5437128429
+
+*Roadmap*
+!http://farm6.static.flickr.com/5140/5437128523_ea9a3aa4bb_b.jpg!:http://www.flickr.com/photos/huacnlee/5437128523
+
+>"View more screenshots in here.":http://www.flickr.com/photos/huacnlee/tags/redminethemeinnerboard/
+>"http://huacnlee.com":http://huacnlee.com
+
+
+
